@@ -1,6 +1,6 @@
 # ITP — Segunda Avaliação: Boletim de uma pequena turma
 
-**Aluno:** [COLOQUE SEU NOME]
+**Aluno:** Magnnws Brunno de Melo Nascimento
 
 **Opção escolhida:** Opção 1 — Boletim de uma pequena turma.
 
